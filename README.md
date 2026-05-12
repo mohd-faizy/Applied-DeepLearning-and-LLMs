@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="_img\llms.jpg" alt="Applied LLM Development Banner" width="100%">
-  
-  # 🧠 Applied LLM Development & Deep Learning
+  <img src="_img\adll-banner.png" alt="Applied LLM Development Banner" width="100%">
 
   <p align="center">
     <b>A complete, end-to-end curriculum covering deep learning fundamentals through LLM fine-tuning, RAG, and production deployment.</b>
