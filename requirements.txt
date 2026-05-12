@@ -1,0 +1,15 @@
+Pillow
+datasets
+evaluate
+matplotlib
+nltk
+numpy
+pandas
+peft
+scikit-learn
+torch
+torchaudio
+torchtext
+torchvision
+transformers
+trl
